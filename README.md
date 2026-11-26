@@ -1,4 +1,4 @@
-# textkit
+﻿# textkit
 
 ## วัตถุประสงค์
 
@@ -14,7 +14,7 @@ python3 main.py
 
 ### counter.py (สมาชิก 1)
 
-ยังไม่ได้เขียน
+ฟังก์ชัน `count_words(text)` นับจำนวนคำที่คั่นด้วยช่องว่าง เช่น `count_words("hello first year")` ได้ `3` และ `count_words("")` ได้ `0`
 
 ### reverser.py (สมาชิก 2)
 
@@ -45,3 +45,4 @@ python3 main.py
 ### สมาชิก 4
 
 69114540118 นายถกลเกียรติ โสดา
+
