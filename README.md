@@ -26,7 +26,7 @@ python3 main.py
 
 ### caser.py (สมาชิก 4)
 
-ยังไม่ได้เขียน
+Example: `capitalize_words(hello first year)` returns `Hello First Year`.
 
 ## ผู้จัดทำ
 
