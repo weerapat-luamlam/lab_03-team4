@@ -26,7 +26,7 @@ python3 main.py
 
 ### caser.py (สมาชิก 4)
 
-Example: `capitalize_words(hello first year)` returns `Hello First Year`.
+ฟังก์ชัน `capitalize_words(text)` ทำให้อักษรตัวแรกของแต่ละคำเป็นตัวพิมพ์ใหญ่ เช่น `capitalize_words("hello first year")` ได้ `"Hello First Year"`Example: capitalize_words(hello first year) returns Hello First Year.
 
 ## ผู้จัดทำ
 
