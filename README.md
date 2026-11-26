@@ -18,7 +18,7 @@ python3 main.py
 
 ### reverser.py (สมาชิก 2)
 
-ยังไม่ได้เขียน
+ฟังก์ชัน `reverse_words(text)` กลับลำดับคำ เช่น `reverse_words("hello first year")` ได้ `year first hello`
 
 ### cleaner.py (สมาชิก 3)
 
