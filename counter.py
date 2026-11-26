@@ -1,6 +1,3 @@
-"""Word-counting utilities."""
-
-
-def count_words(text):
-    """Count words separated by one or more whitespace characters."""
-    raise NotImplementedError
+﻿def count_words(text: str) -> int:
+    """Count whitespace-separated words in text."""
+    return len(text.split())
