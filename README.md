@@ -18,7 +18,10 @@ python3 main.py
 
 ### reverser.py (สมาชิก 2)
 
-ฟังก์ชัน `reverse_words(text)` กลับลำดับคำ เช่น `reverse_words("hello first year")` ได้ `year first hello`
+ฟังก์ชัน `reverse_words(text)` กลับลำดับคำและจัดช่องว่างระหว่างคำให้เหลือหนึ่งช่อง
+
+- `reverse_words("hello first year")` ได้ `year first hello`
+- `reverse_words("a  b")` ได้ `b a`
 
 ### cleaner.py (สมาชิก 3)
 
