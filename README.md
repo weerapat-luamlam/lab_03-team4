@@ -25,7 +25,7 @@ python3 main.py
 
 ### cleaner.py (สมาชิก 3)
 
-ยังไม่ได้เขียน
+ฟังก์ชัน 'clean_text(text)' จัดระเบียบช่องว่างในข้อความให้เป็นมาตรฐานเดียวกัน เช่น clean_text("hello first   year") ได้ 'hello first year'
 
 ### caser.py (สมาชิก 4)
 
